@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>preview on 许彦章：Yanzhang Xu</title>
+    <link>https://yanzhang-xu.github.io/tags/preview/</link>
+    <description>Recent content in preview on 许彦章：Yanzhang Xu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Feb 2022 15:43:48 +0800</lastBuildDate><atom:link href="https://yanzhang-xu.github.io/tags/preview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to become a expert?</title>
+      <link>https://yanzhang-xu.github.io/post/english-preview/</link>
+      <pubDate>Fri, 04 Feb 2022 15:43:48 +0800</pubDate>
+      
+      <guid>https://yanzhang-xu.github.io/post/english-preview/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>https://yanzhang-xu.github.io/publication/</link>
+      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
+      
+      <guid>https://yanzhang-xu.github.io/publication/</guid>
+      <description>日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに</description>
+    </item>
+    
+  </channel>
+</rss>
