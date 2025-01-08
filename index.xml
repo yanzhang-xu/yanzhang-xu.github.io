@@ -2,26 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Yanzhang Xu&#39;s Blog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://yanzhang-xu.github.io/</link>
         <description>Recent content on Yanzhang Xu&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
-        <link>http://localhost:1313/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yanzhang-xu.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Abot Me</title>
+        <link>https://yanzhang-xu.github.io/abot-me/</link>
+        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
-        <description></description>
+        <guid>https://yanzhang-xu.github.io/abot-me/</guid>
+        <description>
+&lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Yanzhang Xu (许彦章)&lt;/b&gt;
+&lt;/font&gt;  
+&lt;style type=&#34;text/css&#34;&gt;
+            #wrap{
+                width: 100%; //设置宽度
+                overflow: hidden; //超出隐藏
+                white-space: normaL; //设置文字换行
+                text-overflow: ellipsis;//超出显示...
+            }
+        &lt;/style&gt;
+&lt;div id=&#34;wrap&#34; style=text-align:justify; text-align-last:justify;&gt;
+&lt;style&gt;
+    a:hover{color:#FF4D4D;text-decoration: none;}
+&lt;/style&gt;
+    &lt;font size=&#34;4.5&#34;&gt;I am currently a Ph.D. student (2023-Present) in Material and Science Engineering at the &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.ntu.edu.sg/mse&#34;&gt;Nanyang Technological University (NTU), Singpore&lt;/a&gt;&lt;/p&gt;, under the supervision of &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.namjooncho.com/currentmembers&#34;&gt;Prof. Cho Namjoon&lt;/a&gt;&lt;/p&gt; and &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://personal.ntu.edu.sg/songjuha/&#34;&gt;Prof. Song Juha&lt;/a&gt;&lt;/p&gt;. I earned my master&#39;s degree in Naval Architecture and Ocean Engineering from &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://naoce.sjtu.edu.cn/&#34;&gt;Shanghai Jiao Tong University (SJTU)&lt;/a&gt;&lt;/p&gt;, where I was advisied by &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://dcwan.sjtu.edu.cn/&#34;&gt;Prof. Decheng Wan&lt;/a&gt;&lt;/p&gt;.&lt;br&gt;My research focus on the &lt;b&gt;computational fluid dynamics (CFD) &lt;/b&gt; and &lt;b&gt; computational sloid mechanics &lt;/b&gt;. For the fluid dynamic, the &lt;b&gt;fluid-sructure interaction issue&lt;/b&gt; (vortex induced vibration of the marine paltform, turbine blades and ships) have been studied via the numerical method including the commerical software (COMSOL, FLUENT) and open scources software (&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://dyfluid.com/&#34;&gt;OpenFoam&lt;/a&gt;&lt;/p&gt;).  For the solid mechanic, the second development of ABAQUS with Python has been applied to investeaget the hierarchical metamaterial inspired from the nature ( wood, lobster, shells etc.), which can resist the impacting force and be used to design the protecting gears. 
+    &lt;br&gt;
+    Recently, the numerical method (FEM via ABAQUS and MD simulation via &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.mdtutorials.com/gmx/&#34;&gt;Gromacs&lt;/a&gt;&lt;/p&gt;) will be applied to study the mechanical properties of the &lt;b&gt;biomaterial&lt;/b&gt; (Biocompatible polymer and hydrogel) combined with the 3D bioprinter from the macro and micro-scales. The Al algorithm will be also considered in the simulation in order to accelarate the simulation process. In the future, I plan to dive into the area of AI4Science to produce the high quality and low cost products which can rapidly improve our life qualites. 
+    &lt;br&gt;
+    If you want to cooperate in the AI4Science area, feel free to contact me via the email: &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;mailto:YANZHANG002@e.ntu.edu.sg&#34;&gt;YANZHANG002@e.ntu.edu.sg&lt;/a&gt;&lt;/p&gt;. &lt;/font&gt;&lt;/div&gt; 
+&lt;br&gt;
+&lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Education&lt;/b&gt;
+&lt;/font&gt; 
+&lt;br&gt;
+&lt;font size=&#34;4.5&#34;&gt; 
+&amp;#10004  2023 Fall - 2026 Winter: Nanyang Technological University (&lt;b&gt;NTU&lt;/b&gt;)，Singapore. Ph.D at Material and Science Engineering (Expect end of the 2026).
+&lt;br&gt;
+&amp;#10004  2020 Fall - 2023 Summer: Northeastern University (&lt;b&gt;NEU&lt;/b&gt;)，Boston, MA, U.S. Ph.D (Drop due to the visa) at Mechanical Engineering.
+&lt;br&gt;
+&amp;#10004  2017 Fall - 2020 Summer: Shanghai Jiao Tong University (&lt;b&gt;SJTU&lt;/b&gt; 上海交通大学)，Shanghai, China, M.Sc at Naval Architecture and Ocean Engineering.
+&lt;br&gt;
+&amp;#10004  2014 Fall - 2017 Summer: Wuhan University (&lt;b&gt;WHU&lt;/b&gt; 武汉大学)，Wuhan, China, B.S.(Minor) at Economics.
+&lt;br&gt;
+&amp;#10004  2013 Fall - 2017 Summer: Huazhong University of Science and Technology (&lt;b&gt;HUST&lt;/b&gt; 华中科技大学)，Wuhan, China, B.S. at Naval Architecture and Ocean Engineering.
+&lt;br&gt;
+&lt;br&gt;
+&lt;/font&gt;
+&lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Activity&lt;/b&gt;
+    &lt;br&gt;
+    &lt;/font&gt; 
+ &lt;font size=&#34;4.5&#34;&gt;   
+&amp;#10004  2024 Fall - 2024 Winter:&lt;b&gt;Mentor&lt;/b&gt; of the undergraduate student for the final year project, Nanyang Technological University, Singapore
+&lt;br&gt;
+&amp;#10004  2023 Fall - 2024 Winter: &lt;b&gt;Teaching Assistant&lt;/b&gt;, Nanyang Technological University, Singapore.
+&lt;br&gt;
+&amp;#10004  2020 Fall - 2023 Summer: &lt;b&gt;Reseach Assistant&lt;/b&gt;, Northeastern University, Boston, U.S.
+&lt;br&gt;
+&amp;#10004  2020 Fall - 2021 Summer: &lt;b&gt;Online Instructor&lt;/b&gt;, Teach math and physics at the junior high school level.
+&lt;br&gt;
+&lt;/font&gt; 
+&lt;br&gt;
+  &lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Publication&lt;/b&gt;
+&lt;/font&gt; 
+ &lt;font size=&#34;4.5&#34;&gt;   
+&lt;br&gt;
+&lt;b&gt; J1.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Nash, Richard and Batwa, Ammar and Li, Yaning. &#34;Auxetic Two-Phase Chevron Mechanical Metamaterial&#34;. Advanced Engineering Materials,vol.26,no.16,p.2400 691,2024.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://doi.org/10.1002/adem.202400691&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; J2.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhao, Wei Wen and Wan, De Cheng. &#34;MPS method for interaction between solitary waves and submerged horizontal plate&#34;. China Ocean Engineering,vol.34,pp.314-327,2020.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s13344-020-0029-1&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C1.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhou, Chen Chen and Song, Juha and Cho, Namjoon. &#34;Unravelling the Size and Shape Tuning Mechanisms of Microparticle Formation in Pollen-Hydrogel Composites&#34;.  In 2024 SES Annual Technical Meeting，Hangzhou, China,2024.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/20863&#34;&gt; [pdf].&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C2.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Nash, Richard and Li, Yaning. &#34;Mechanics of Two-Phase Auxetic Chevron Mechanical Metamaterial&#34;. APS March Meeting 2022 Abstracts,W21--012,Chicago, U.S.,2022.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2022APS..MARW21012X/abstract&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C3.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Li, Yaning. &#34;Retarding Damages/Cracks via Auxetic effects and Snap-through Instability&#34;. APS March Meeting 2021 Abstracts,X17--009,2021.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021APS..MARX17009X/abstract&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C4.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhang, Guanyu and Wan, Decheng and Chen, Gang. &#34;MPS Method for Study of Interactions Between Solitary Wave and Submerged Horizontal Plate&#34;. In the 29th International Ocean and Polar Engineering，Honolulu, Hawaii, USA,2019.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/20863&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/font&gt; 
+</description>
+        </item>
+        <item>
+        <title>Hugo&#43;Github</title>
+        <link>https://yanzhang-xu.github.io/p/hugo-github/</link>
+        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://yanzhang-xu.github.io/p/hugo-github/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/hugo-github/cat.png" alt="Featured image of post Hugo&#43;Github" /&gt;&lt;p&gt;This article offers steps to build a blog.(Assume the hugo has been installed properly in your PC.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/e399a96bba2d&#34; style=&#34;display:inline;color:#516b91;&#34;&gt;Hugo install&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;bp-styledisplayinlinecolor516b91a-hrefhttpsthemesgohugoiothemes-clone-the-theme-from-the-github-repositoryapb&#34;&gt;&lt;b&gt;&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/&#34;&gt; Clone the theme from the github repository&lt;/a&gt;&lt;/p&gt;&lt;/b&gt;
+&lt;/h3&gt;&lt;pre&gt;
+    hugo new site your-site-name   ## build your site
+    cd your-site-name/themes      ## change the direction to your-site-name/themes
+    git clone https://github.com/author/theme-name.git  ## replace the &#34;author&#34; and &#34;theme-name&#34;
+    cd ..                         ## change the direction to your-site-name
+    cp -r /themes/theme-name/exampleSite/*   
+    ## copy the files in /themes/theme-name/exampleSite/ to your site folder(your-site-name)
+&lt;/pre&gt;
+&lt;p&gt;Note** There are two config files ( &lt;b&gt;config.toml&lt;/b&gt; and &lt;b&gt;hugo.yaml&lt;/b&gt; ) in your site floder. You need to copy the items in &lt;b&gt;hugo.yaml&lt;/b&gt; to &lt;b&gt;config.toml &lt;/b&gt;, and delete the &lt;b&gt;hugo.yaml&lt;/b&gt;. You can change the type of config file, either &lt;b&gt;config.toml &lt;/b&gt; or &lt;b&gt;config.yaml &lt;/b&gt; is ok. I prefer&lt;b&gt;config.yaml &lt;/b&gt;.
+&lt;br&gt;
+&lt;img src=&#34;example1.png&#34; alt=&#34;stpe2&#34;&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;bbuild-the-blog-b&#34;&gt;&lt;b&gt;Build the blog &lt;/b&gt;
+&lt;/h3&gt;&lt;pre&gt;
+hugo server -D   
+## in your-site-name folder, run the code, you can see the website in local
+&lt;/pre&gt;
+&lt;p&gt;There are some errors like.&lt;br&gt;
+&lt;br&gt;
+1.empty website: ensure the exampleSite has been copyed to your-site-name folder and config.toml has been modified.&lt;/p&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://github.com/CaiJimmy/hugo-theme-stack/issues/976&#34;&gt;2. &#34;render of &#34;taxonomy&#34; failed: execute of template failed&#34; &lt;/a&gt;&lt;/p&gt; : upgrade the version of Hugo.
+For windows: your can download the latest version of Hugo, and replace the previos &lt;b&gt;.exe &lt;/b&gt; file.
+&lt;h3 id=&#34;bpush-the-public-folder-to-your-github-repositoryb&#34;&gt;&lt;b&gt;Push the Public folder to your Github repository&lt;/b&gt;
+&lt;/h3&gt;&lt;p&gt;For more information to build the your repository in the github, you may refer to the &lt;a href=&#34;https://zhuanlan.zhihu.com/p/58254227&#34; style=&#34;display:inline;color:#516b91;&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;
+cd pubilc    ## run the previous code, the public folder will be generated.
+git init
+git add .
+git commit &#34;First commit&#34;
+git remote add origin https://github.com/your-user-name/your-user-name.github.io.git
+## connect the local site with your github repository
+git push -u origin main ## -u or -f choose one 
+git push -f origin main ## will replace the original version
+&lt;/pre&gt;
+</description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/p/markdown-syntax-guide/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://yanzhang-xu.github.io/p/markdown-syntax-guide/</link>
+        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="http://localhost:1313/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>https://yanzhang-xu.github.io/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/markdown-syntax-guide/abstract.png" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1
@@ -246,112 +363,12 @@
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>Rich Content</title>
-        <link>http://localhost:1313/p/rich-content/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/rich-content/</guid>
-        <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode
-&lt;/h2&gt;&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode
-&lt;/h2&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Design Reviewed | Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
-
-
-&lt;br&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode
-&lt;/h2&gt;&lt;style&gt;
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-&lt;/style&gt;&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
-          &lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
-            &lt;img src=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
-            &lt;div class=&#34;play&#34;&gt;
-              &lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
-            &lt;/div&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-&lt;h2 id=&#34;bilibilibi-shortcode&#34;&gt;bilibilibi Shortcode
-&lt;/h2&gt;
-
-
-
-
-
-    
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;aid=498363026&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;gist-shortcode&#34;&gt;Gist Shortcode
-&lt;/h2&gt;&lt;script src=&#34;https://gist.github.com/spf13/7896402.js&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;gitlab-snippets-shortcode&#34;&gt;Gitlab Snippets Shortcode
-&lt;/h2&gt;&lt;script
-    type=&#34;application/javascript&#34;
-    src=&#34;https://gitlab.com/-/snippets/2349278.js&#34;
-&gt;&lt;/script&gt;
-&lt;h2 id=&#34;quote-shortcode&#34;&gt;Quote Shortcode
-&lt;/h2&gt;&lt;p&gt;Stack adds a &lt;code&gt;quote&lt;/code&gt; shortcode.  For example:&lt;/p&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;A famous person, &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Book&#34;&gt;&lt;cite&gt;The book they wrote&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Book&#34;&gt;&lt;cite&gt;Anonymous book&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;cite&gt;Some book&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;Somebody&lt;/span&gt;&lt;cite&gt;&lt;/cite&gt;&lt;/span&gt;&lt;/blockquote&gt;</description>
-        </item>
-        <item>
         <title>Placeholder Text</title>
-        <link>http://localhost:1313/p/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://yanzhang-xu.github.io/p/placeholder-text/</link>
+        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/placeholder-text/</guid>
-        <description>&lt;img src="http://localhost:1313/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+        <guid>https://yanzhang-xu.github.io/p/placeholder-text/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/placeholder-text/text.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -377,11 +394,19 @@
 &lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
         </item>
         <item>
+        <title>Archives</title>
+        <link>https://yanzhang-xu.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://yanzhang-xu.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Math Typesetting</title>
-        <link>http://localhost:1313/p/math-typesetting/</link>
+        <link>https://yanzhang-xu.github.io/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/math-typesetting/</guid>
+        <guid>https://yanzhang-xu.github.io/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -418,11 +443,11 @@ $$</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>http://localhost:1313/p/emoji-support/</link>
+        <link>https://yanzhang-xu.github.io/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://yanzhang-xu.github.io/p/emoji-support/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -448,91 +473,11 @@ $$</description>
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>About Me</title>
-        <link>http://localhost:1313/about-me/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about-me/</guid>
-        <description>
-&lt;font size=&#34;5&#34;&gt;  
-    &lt;b&gt;Yanzhang Xu (许彦章)&lt;/b&gt;
-&lt;/font&gt;  
-&lt;style type=&#34;text/css&#34;&gt;
-            #wrap{
-                width: 100%; //设置宽度
-                overflow: hidden; //超出隐藏
-                white-space: normaL; //设置文字换行
-                text-overflow: ellipsis;//超出显示...
-            }
-        &lt;/style&gt;
-&lt;div id=&#34;wrap&#34; style=text-align:justify; text-align-last:justify;&gt;
-&lt;style&gt;
-    a:hover{color:#FF4D4D;text-decoration: none;}
-&lt;/style&gt;
-    &lt;font size=&#34;4.5&#34;&gt;I am currently a Ph.D. student (2023-Present) in Material and Science Engineering at the &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.ntu.edu.sg/mse&#34;&gt;Nanyang Technological University (NTU), Singpore&lt;/a&gt;&lt;/p&gt;, under the supervision of &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.namjooncho.com/currentmembers&#34;&gt;Prof. Cho Namjoon&lt;/a&gt;&lt;/p&gt; and &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://personal.ntu.edu.sg/songjuha/&#34;&gt;Prof. Song Juha&lt;/a&gt;&lt;/p&gt;. I earned my master&#39;s degree in Naval Architecture and Ocean Engineering from &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://naoce.sjtu.edu.cn/&#34;&gt;Shanghai Jiao Tong University (SJTU)&lt;/a&gt;&lt;/p&gt;, where I was advisied by &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://dcwan.sjtu.edu.cn/&#34;&gt;Prof. Decheng Wan&lt;/a&gt;&lt;/p&gt;.&lt;br&gt;My research focus on the &lt;b&gt;computational fluid dynamics (CFD) &lt;/b&gt; and &lt;b&gt; computational sloid mechanics &lt;/b&gt;. For the fluid dynamic, the &lt;b&gt;fluid-sructure interaction issue&lt;/b&gt; (vortex induced vibration of the marine paltform, turbine blades and ships) have been studied via the numerical method including the commerical software (COMSOL, FLUENT) and open scources software (&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://dyfluid.com/&#34;&gt;OpenFoam&lt;/a&gt;&lt;/p&gt;).  For the solid mechanic, the second development of ABAQUS with Python has been applied to investeaget the hierarchical metamaterial inspired from the nature ( wood, lobster, shells etc.), which can resist the impacting force and be used to design the protecting gears. 
-    &lt;br&gt;
-    Recently, the numerical method (FEM via ABAQUS and MD simulation via &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.mdtutorials.com/gmx/&#34;&gt;Gromacs&lt;/a&gt;&lt;/p&gt;) will be applied to study the mechanical properties of the &lt;b&gt;biomaterial&lt;/b&gt; (Biocompatible polymer and hydrogel) combined with the 3D bioprinter from the macro and micro-scales. The Al algorithm will be also considered in the simulation in order to accelarate the simulation process. In the future, I plan to dive into the area of AI4Science to produce the high quality and low cost products which can rapidly improve our life qualites. 
-    &lt;br&gt;
-    If you want to cooperate in the AI4Science area, feel free to contact me via the email: &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;mailto:YANZHANG002@e.ntu.edu.sg&#34;&gt;YANZHANG002@e.ntu.edu.sg&lt;/a&gt;&lt;/p&gt;. &lt;/font&gt;&lt;/div&gt; 
-&lt;br&gt;
-&lt;font size=&#34;5&#34;&gt;  
-    &lt;b&gt;Education&lt;/b&gt;
-&lt;/font&gt; 
-&lt;br&gt;
-&lt;font size=&#34;4.5&#34;&gt; 
-&amp;#10004  2023 Fall - 2026 Winter: Nanyang Technological University (&lt;b&gt;NTU&lt;/b&gt;)，Singapore. Ph.D at Material and Science Engineering (Expect end of the 2026).
-&lt;br&gt;
-&amp;#10004  2020 Fall - 2023 Summer: Northeastern University (&lt;b&gt;NEU&lt;/b&gt;)，Boston, MA, U.S. Ph.D (Drop due to the visa) at Mechanical Engineering.
-&lt;br&gt;
-&amp;#10004  2017 Fall - 2020 Summer: Shanghai Jiao Tong University (&lt;b&gt;SJTU&lt;/b&gt; 上海交通大学)，Shanghai, China, M.Sc at Naval Architecture and Ocean Engineering.
-&lt;br&gt;
-&amp;#10004  2014 Fall - 2017 Summer: Wuhan University (&lt;b&gt;WHU&lt;/b&gt; 武汉大学)，Wuhan, China, B.S.(Minor) at Economics.
-&lt;br&gt;
-&amp;#10004  2013 Fall - 2017 Summer: Huazhong University of Science and Technology (&lt;b&gt;HUST&lt;/b&gt; 华中科技大学)，Wuhan, China, B.S. at Naval Architecture and Ocean Engineering.
-&lt;br&gt;
-&lt;br&gt;
-&lt;/font&gt;
-&lt;font size=&#34;5&#34;&gt;  
-    &lt;b&gt;Activity&lt;/b&gt;
-    &lt;br&gt;
-    &lt;/font&gt; 
- &lt;font size=&#34;4.5&#34;&gt;   
-&amp;#10004  2024 Fall - 2024 Winter:&lt;b&gt;Mentor&lt;/b&gt; of the undergraduate student for the final year project, Nanyang Technological University, Singapore
-&lt;br&gt;
-&amp;#10004  2023 Fall - 2024 Winter: &lt;b&gt;Teaching Assistant&lt;/b&gt;, Nanyang Technological University, Singapore.
-&lt;br&gt;
-&amp;#10004  2020 Fall - 2023 Summer: &lt;b&gt;Reseach Assistant&lt;/b&gt;, Northeastern University, Boston, U.S.
-&lt;br&gt;
-&amp;#10004  2020 Fall - 2021 Summer: &lt;b&gt;Online Instructor&lt;/b&gt;, Teach math and physics at the junior high school level.
-&lt;br&gt;
-&lt;/font&gt; 
-&lt;br&gt;
-  &lt;font size=&#34;5&#34;&gt;  
-    &lt;b&gt;Publication&lt;/b&gt;
-&lt;/font&gt; 
- &lt;font size=&#34;4.5&#34;&gt;   
-&lt;br&gt;
-&lt;b&gt; J1.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Nash, Richard and Batwa, Ammar and Li, Yaning. &#34;Auxetic Two-Phase Chevron Mechanical Metamaterial&#34;. Advanced Engineering Materials,vol.26,no.16,p.2400 691,2024.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://doi.org/10.1002/adem.202400691&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;b&gt; J2.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhao, Wei Wen and Wan, De Cheng. &#34;MPS method for interaction between solitary waves and submerged horizontal plate&#34;. China Ocean Engineering,vol.34,pp.314-327,2020.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s13344-020-0029-1&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;b&gt; C1.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhou, Chen Chen and Song, Juha and Cho, Namjoon. &#34;Unravelling the Size and Shape Tuning Mechanisms of Microparticle Formation in Pollen-Hydrogel Composites&#34;.  In 2024 SES Annual Technical Meeting，Hangzhou, China,2024.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/20863&#34;&gt; [pdf].&lt;/a&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;b&gt; C2.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Nash, Richard and Li, Yaning. &#34;Mechanics of Two-Phase Auxetic Chevron Mechanical Metamaterial&#34;. APS March Meeting 2022 Abstracts,W21--012,Chicago, U.S.,2022.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2022APS..MARW21012X/abstract&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;b&gt; C3.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Li, Yaning. &#34;Retarding Damages/Cracks via Auxetic effects and Snap-through Instability&#34;. APS March Meeting 2021 Abstracts,X17--009,2021.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021APS..MARX17009X/abstract&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;b&gt; C4.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhang, Guanyu and Wan, Decheng and Chen, Gang. &#34;MPS Method for Study of Interactions Between Solitary Wave and Submerged Horizontal Plate&#34;. In the 29th International Ocean and Polar Engineering，Honolulu, Hawaii, USA,2019.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/20863&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;/font&gt; 
-</description>
-        </item>
-        <item>
         <title>Links</title>
-        <link>http://localhost:1313/links/</link>
+        <link>https://yanzhang-xu.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/links/</guid>
+        <guid>https://yanzhang-xu.github.io/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -564,10 +509,10 @@ $$</description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://yanzhang-xu.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://yanzhang-xu.github.io/search/</guid>
         <description></description>
         </item>
         
