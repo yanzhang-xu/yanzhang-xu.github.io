@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Guide to emoji usage in Hugo">
+<title>Emoji Support</title>
+
+<link rel='canonical' href='http://localhost:1313/p/emoji-support/'>
+
+<link rel="stylesheet" href="/scss/style.min.b9c8156d464c343bdacaf14a871581fb94cbbdb9dd5cbce4ba017361187cc930.css"><meta property='og:title' content="Emoji Support">
+<meta property='og:description' content="Guide to emoji usage in Hugo">
+<meta property='og:url' content='http://localhost:1313/p/emoji-support/'>
+<meta property='og:site_name' content='Yanzhang Xu&#39;s Blog'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='emoji' /><meta property='article:published_time' content='2019-03-05T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2019-03-05T00:00:00&#43;00:00'/><meta property='og:image' content='http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg' />
+<meta name="twitter:title" content="Emoji Support">
+<meta name="twitter:description" content="Guide to emoji usage in Hugo"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu4824663255442286637.jpg" width="300"
+                            height="366" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Yanzhang Xu&#39;s Blog</a></h1>
+            <h2 class="site-description">In me the tiger sniffs the rose.</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='mailto:yanzhangxu2021@gmail.com'
+                        target="_blank"
+                        title="Email"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1736234121225" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="21511" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><path d="M874.666667 181.333333H149.333333c-40.533333 0-74.666667 34.133333-74.666666 74.666667v512c0 40.533333 34.133333 74.666667 74.666666 74.666667h725.333334c40.533333 0 74.666667-34.133333 74.666666-74.666667V256c0-40.533333-34.133333-74.666667-74.666666-74.666667z m-725.333334 64h725.333334c6.4 0 10.666667 4.266667 10.666666 10.666667v25.6L512 516.266667l-373.333333-234.666667V256c0-6.4 4.266667-10.666667 10.666666-10.666667z m725.333334 533.333334H149.333333c-6.4 0-10.666667-4.266667-10.666666-10.666667V356.266667l356.266666 224c4.266667 4.266667 10.666667 4.266667 17.066667 4.266666s12.8-2.133333 17.066667-4.266666l356.266666-224V768c0 6.4-4.266667 10.666667-10.666666 10.666667z" fill="#8a8a8a" p-id="21512"></path></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://github.com/'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1736234351558" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="24554" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><path d="M958.815566 364.415116c0-63.830795-21.276932-119.150818-59.575408-170.215454 12.766159-55.320023 8.510773-114.895431-12.766159-165.960067-4.255386-12.766159-12.766159-21.276932-25.532319-25.532318-17.021545-4.255386-72.341568-12.766159-187.236999 59.575409-93.6185-21.276932-191.492386-21.276932-280.855499 0C277.953751-10.058882 222.633728-1.54811 205.612183 2.707277c-12.766159 4.255386-21.276932 12.766159-25.532318 25.532318-25.532318 55.320023-29.787704 110.640045-12.766159 165.960067-38.298477 51.064636-59.575409 110.640045-59.575409 170.215454 0 229.790863 127.66159 302.132431 246.812408 327.664749-8.510773 29.787704-12.766159 55.320023-12.766159 80.852341v4.255386c-89.363113 17.021545-119.150818-17.021545-153.193908-63.830795-21.276932-29.787704-46.80925-63.830795-93.6185-72.341568-21.276932-4.255386-46.80925 8.510773-51.064636 29.787704-4.255386 21.276932 8.510773 46.80925 29.787704 51.064636 12.766159 4.255386 29.787704 21.276932 46.80925 42.553864 38.298477 51.064636 93.6185 119.150818 221.28009 102.129272V938.892273c0 25.532318 17.021545 42.553863 42.553864 42.553864s42.553863-17.021545 42.553863-42.553864v-123.406204-42.553863c0-29.787704 8.510773-55.320023 29.787704-76.596955 12.766159-12.766159 17.021545-29.787704 8.510773-42.553863-4.255386-17.021545-17.021545-25.532318-34.043091-29.787705-123.406204-17.021545-238.301635-55.320023-238.301635-255.32318 0-51.064636 17.021545-93.6185 51.064636-131.916977 12.766159-12.766159 12.766159-29.787704 8.510773-42.553864-12.766159-38.298477-12.766159-72.341568-4.255386-106.384658 21.276932 4.255386 59.575409 17.021545 110.640045 55.320022 12.766159 8.510773 25.532318 8.510773 38.298477 4.255387 89.363113-25.532318 187.236999-25.532318 276.600112 0 12.766159 4.255386 25.532318 0 34.043091-4.255387 55.320023-38.298477 93.6185-51.064636 110.640045-55.320022 8.510773 34.043091 8.510773 68.086182-4.255386 102.129272-4.255386 17.021545-4.255386 34.043091 8.510772 42.553864 34.043091 34.043091 51.064636 80.852341 51.064636 131.916976 0 200.003158-114.895431 242.557022-238.301635 255.323181-17.021545 0-29.787704 12.766159-34.043091 29.787704-4.255386 17.021545 0 34.043091 8.510773 42.553864 21.276932 21.276932 29.787704 51.064636 29.787704 80.852341V938.892273c0 25.532318 17.021545 42.553863 42.553864 42.553864s42.553863-17.021545 42.553863-42.553864v-161.704681c4.255386-29.787704 0-55.320023-12.766159-80.852341 102.129272-21.276932 246.812408-89.363113 246.812408-331.920135z" p-id="24555" fill="#8a8a8a"></path></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://scholar.google.com/citations?user=TgOU974AAAAJ&amp;hl=en'
+                        target="_blank"
+                        title="Google"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1736235882271" class="icon" viewBox="0 0 1566 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="27956" xmlns:xlink="http://www.w3.org/1999/xlink" width="305.859375" height="200"><path d="M0.30132 489.547C-3.91468 693.558 136.61032 888.233 329.90032 951.72c182.026 61.197 405.854 15.42 527.044-140.526 88.423-109.203 108.541-254.848 98.964-390.916-155.945-1.385-311.83-0.964-467.533-0.723-0.241 55.536 0 110.83 0.24 166.426 93.363 2.59 186.725 1.385 280.087 3.252-23.551 80.774-77.22 155.945-158.716 185.098-157.33 69.33-358.029-21.262-407.54-186.242-59.752-158.053 38.067-348.753 199.553-394.711 100.17-35.237 203.29 4.457 289.002 56.499A2210.877 2210.877 0 0 0 814.90032 121.94C717.56432 40.505 592.45832-9.43 463.86032 1.534 211.54132 4.545-9.27568 237.469 0.30132 489.547z m1284.905-188.351c-0.482 46.44-0.964 93.121-1.205 139.561-46.681 0.482-93.121 0.723-139.561 0.964v139.14c46.44 0.18 93.12 0.422 139.561 0.903 0.482 46.44 0.482 92.88 0.964 139.562 46.199 0 92.64-0.241 139.14 0 0.18-46.681 0.421-93.121 0.903-139.742 46.38-0.301 93.121-0.542 139.561-0.723V441.72c-46.38-0.24-93.12-0.482-139.561-0.903-0.24-46.5-0.723-93.182-0.964-139.622h-138.838z" fill="#8a8a8a" p-id="27957"></path></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://mp.weixin.qq.com/s/In4W0VjaKpxPRdZJCaQ_Fg'
+                        target="_blank"
+                        title="Wechat"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1736233845485" class="icon" viewBox="0 0 1036 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="17750" xmlns:xlink="http://www.w3.org/1999/xlink" width="202.34375" height="200"><path d="M476.825896 255.194146c-30.623461 0-55.466266 24.821315-55.466266 55.444776 0 30.625508 24.841781 55.4458 55.466266 55.4458 30.602995 0 55.444776-24.819269 55.444776-55.4458C532.270672 280.015462 507.428891 255.194146 476.825896 255.194146zM255.024278 255.194146c-30.602995 0-55.422264 24.821315-55.422264 55.444776 0 30.625508 24.819269 55.4458 55.422264 55.4458 30.645974 0 55.467289-24.819269 55.467289-55.4458C310.491567 280.015462 285.671275 255.194146 255.024278 255.194146zM1020.165672 640.58047c0-133.169999-114.910123-244.169045-267.37456-269.199115C737.057779 207.010751 574.832024 77.771271 377.004423 77.771271c-208.200856 0-377.004423 143.204539-377.004423 319.848679 0 87.571475 41.491996 166.920684 108.699678 224.681202-2.719948 16.319687-7.024997 46.239114-7.187703 72.967872-0.107447 20.163225-1.083681 38.508036 9.378601 47.842635 26.835182 23.983227 125.033691-27.656897 149.623739-41.207517 33.987069 9.359158 70.092381 14.725376 107.544365 15.464203 40.258912 114.228601 168.036088 197.708897 319.459822 197.708897 35.757388 0 70.186526-4.673439 102.46672-13.288654 21.106714 11.344373 108.544135 56.285934 132.351354 35.57524 9.227152-8.035 8.379854-23.760147 8.273431-41.084721-0.149403-23.065322-3.983731-48.89664-6.379291-62.856583C983.541543 783.850501 1020.165672 715.750497 1020.165672 640.58047zM355.042225 631.628588c-26.931373-1.64036-52.837392-6.255471-77.19822-13.465686-3.007497-0.448208-6.15621-0.797156-9.346879-0.972141-25.102724-1.343601-84.10042 55.898101-96.898911 48.535413-13.042037-7.503904 17.84953-86.416162 1.918699-101.343129-52.394301-42.173518-84.827991-100.521414-84.827991-164.987658 0-128.628566 129.104403-232.911654 288.315498-232.911654 145.55712 0 265.907139 87.148849 285.506523 200.370517C494.028697 377.185548 360.502587 491.055992 355.042225 631.628588zM857.453846 778.554892c-14.935154 11.881608 11.948123 76.576049 0.318248 83.092463-11.282974 6.324032-55.595202-41.889039-81.563644-40.436968-2.780323 0.153496-5.697769 0.220011-8.664334 0.223081-25.071002 6.724145-51.993165 10.388605-80.025615 10.388605-134.75817 0-244.001223-84.423785-244.001223-188.556447 0-104.109126 109.243053-188.533934 244.001223-188.533934 134.756123 0 244.0002 84.423785 244.0002 188.533934C931.518702 696.341448 903.127072 744.287437 857.453846 778.554892zM598.805018 521.331529c-24.51637 0-44.355207 19.860327-44.355207 44.355207s19.838837 44.35623 44.355207 44.35623c24.495904 0 44.35623-19.860327 44.35623-44.35623S623.301945 521.331529 598.805018 521.331529zM798.408055 521.331529c-24.495904 0-44.357254 19.860327-44.357254 44.355207s19.860327 44.35623 44.357254 44.35623c24.51637 0 44.355207-19.860327 44.355207-44.35623S822.924425 521.331529 798.408055 521.331529z" p-id="17751" fill="#8a8a8a"></path></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about-me/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About Me</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="http://localhost:1313/" selected>English</option>
+                                
+                                    <option value="http://localhost:1313/zh-cn/" >中文</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/emoji-support/">
+                <img src="/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash_hu4784715761958561598.jpg"
+                        srcset="/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash_hu4784715761958561598.jpg 800w, /p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash_hu3085507343512068137.jpg 1600w"
+                        width="800" 
+                        height="566" 
+                        loading="lazy"
+                        alt="Featured image of post Emoji Support" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/test/" style="background-color: #2a9d8f; color: #fff;">
+                Life
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/emoji-support/">Emoji Support</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Guide to emoji usage in Hugo
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Mar 05, 2019</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a class="link" href="https://gohugo.io/functions/emojify/"  target="_blank" rel="noopener"
+    ><code>emojify</code></a> function can be called directly in templates or <a class="link" href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes"  target="_blank" rel="noopener"
+    >Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a class="link" href="https://gohugo.io/getting-started/configuration/"  target="_blank" rel="noopener"
+    >configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
+<p>The <a class="link" href="http://www.emoji-cheat-sheet.com/"  target="_blank" rel="noopener"
+    >Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">.emoji {
+</span></span><span class="line"><span class="cl">  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+</span></span><span class="line"><span class="cl">}</span></span></code></pre></td></tr></table>
+</div>
+</div>
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/emoji/">Emoji</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/p/placeholder-text/">
+        
+        
+            <div class="article-image">
+                <img src="/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.8eae06664ddfb3e8dc6e000756cb703b_hu13612953062116952428.jpg" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post Placeholder Text"
+                        
+                        data-hash="md5-jq4GZk3fs&#43;jcbgAHVstwOw==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Placeholder Text</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Xu Yanzhang
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.cc463752d2988bcb007440fbfd17f5e10d99ba27ed8b43039e69aef174d37eea.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

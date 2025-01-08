@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Yanzhang Xu&#39;s Blog</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on Yanzhang Xu&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About Me</title>
+        <link>http://localhost:1313/about-me/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about-me/</guid>
+        <description>
+&lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Yanzhang Xu (许彦章)&lt;/b&gt;
+&lt;/font&gt;  
+&lt;style type=&#34;text/css&#34;&gt;
+            #wrap{
+                width: 100%; //设置宽度
+                overflow: hidden; //超出隐藏
+                white-space: normaL; //设置文字换行
+                text-overflow: ellipsis;//超出显示...
+            }
+        &lt;/style&gt;
+&lt;div id=&#34;wrap&#34; style=text-align:justify; text-align-last:justify;&gt;
+&lt;style&gt;
+    a:hover{color:#FF4D4D;text-decoration: none;}
+&lt;/style&gt;
+    &lt;font size=&#34;4.5&#34;&gt;I am currently a Ph.D. student (2023-Present) in Material and Science Engineering at the &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.ntu.edu.sg/mse&#34;&gt;Nanyang Technological University (NTU), Singpore&lt;/a&gt;&lt;/p&gt;, under the supervision of &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.namjooncho.com/currentmembers&#34;&gt;Prof. Cho Namjoon&lt;/a&gt;&lt;/p&gt; and &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://personal.ntu.edu.sg/songjuha/&#34;&gt;Prof. Song Juha&lt;/a&gt;&lt;/p&gt;. I earned my master&#39;s degree in Naval Architecture and Ocean Engineering from &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://naoce.sjtu.edu.cn/&#34;&gt;Shanghai Jiao Tong University (SJTU)&lt;/a&gt;&lt;/p&gt;, where I was advisied by &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://dcwan.sjtu.edu.cn/&#34;&gt;Prof. Decheng Wan&lt;/a&gt;&lt;/p&gt;.&lt;br&gt;My research focus on the &lt;b&gt;computational fluid dynamics (CFD) &lt;/b&gt; and &lt;b&gt; computational sloid mechanics &lt;/b&gt;. For the fluid dynamic, the &lt;b&gt;fluid-sructure interaction issue&lt;/b&gt; (vortex induced vibration of the marine paltform, turbine blades and ships) have been studied via the numerical method including the commerical software (COMSOL, FLUENT) and open scources software (&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://dyfluid.com/&#34;&gt;OpenFoam&lt;/a&gt;&lt;/p&gt;).  For the solid mechanic, the second development of ABAQUS with Python has been applied to investeaget the hierarchical metamaterial inspired from the nature ( wood, lobster, shells etc.), which can resist the impacting force and be used to design the protecting gears. 
+    &lt;br&gt;
+    Recently, the numerical method (FEM via ABAQUS and MD simulation via &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.mdtutorials.com/gmx/&#34;&gt;Gromacs&lt;/a&gt;&lt;/p&gt;) will be applied to study the mechanical properties of the &lt;b&gt;biomaterial&lt;/b&gt; (Biocompatible polymer and hydrogel) combined with the 3D bioprinter from the macro and micro-scales. The Al algorithm will be also considered in the simulation in order to accelarate the simulation process. In the future, I plan to dive into the area of AI4Science to produce the high quality and low cost products which can rapidly improve our life qualites. 
+    &lt;br&gt;
+    If you want to cooperate in the AI4Science area, feel free to contact me via the email: &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;mailto:YANZHANG002@e.ntu.edu.sg&#34;&gt;YANZHANG002@e.ntu.edu.sg&lt;/a&gt;&lt;/p&gt;. &lt;/font&gt;&lt;/div&gt; 
+&lt;br&gt;
+&lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Education&lt;/b&gt;
+&lt;/font&gt; 
+&lt;br&gt;
+&lt;font size=&#34;4.5&#34;&gt; 
+&amp;#10004  2023 Fall - 2026 Winter: Nanyang Technological University (&lt;b&gt;NTU&lt;/b&gt;)，Singapore. Ph.D at Material and Science Engineering (Expect end of the 2026).
+&lt;br&gt;
+&amp;#10004  2020 Fall - 2023 Summer: Northeastern University (&lt;b&gt;NEU&lt;/b&gt;)，Boston, MA, U.S. Ph.D (Drop due to the visa) at Mechanical Engineering.
+&lt;br&gt;
+&amp;#10004  2017 Fall - 2020 Summer: Shanghai Jiao Tong University (&lt;b&gt;SJTU&lt;/b&gt; 上海交通大学)，Shanghai, China, M.Sc at Naval Architecture and Ocean Engineering.
+&lt;br&gt;
+&amp;#10004  2014 Fall - 2017 Summer: Wuhan University (&lt;b&gt;WHU&lt;/b&gt; 武汉大学)，Wuhan, China, B.S.(Minor) at Economics.
+&lt;br&gt;
+&amp;#10004  2013 Fall - 2017 Summer: Huazhong University of Science and Technology (&lt;b&gt;HUST&lt;/b&gt; 华中科技大学)，Wuhan, China, B.S. at Naval Architecture and Ocean Engineering.
+&lt;br&gt;
+&lt;br&gt;
+&lt;/font&gt;
+&lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Activity&lt;/b&gt;
+    &lt;br&gt;
+    &lt;/font&gt; 
+ &lt;font size=&#34;4.5&#34;&gt;   
+&amp;#10004  2024 Fall - 2024 Winter:&lt;b&gt;Mentor&lt;/b&gt; of the undergraduate student for the final year project, Nanyang Technological University, Singapore
+&lt;br&gt;
+&amp;#10004  2023 Fall - 2024 Winter: &lt;b&gt;Teaching Assistant&lt;/b&gt;, Nanyang Technological University, Singapore.
+&lt;br&gt;
+&amp;#10004  2020 Fall - 2023 Summer: &lt;b&gt;Reseach Assistant&lt;/b&gt;, Northeastern University, Boston, U.S.
+&lt;br&gt;
+&amp;#10004  2020 Fall - 2021 Summer: &lt;b&gt;Online Instructor&lt;/b&gt;, Teach math and physics at the junior high school level.
+&lt;br&gt;
+&lt;/font&gt; 
+&lt;br&gt;
+  &lt;font size=&#34;5&#34;&gt;  
+    &lt;b&gt;Publication&lt;/b&gt;
+&lt;/font&gt; 
+ &lt;font size=&#34;4.5&#34;&gt;   
+&lt;br&gt;
+&lt;b&gt; J1.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Nash, Richard and Batwa, Ammar and Li, Yaning. &#34;Auxetic Two-Phase Chevron Mechanical Metamaterial&#34;. Advanced Engineering Materials,vol.26,no.16,p.2400 691,2024.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://doi.org/10.1002/adem.202400691&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; J2.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhao, Wei Wen and Wan, De Cheng. &#34;MPS method for interaction between solitary waves and submerged horizontal plate&#34;. China Ocean Engineering,vol.34,pp.314-327,2020.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s13344-020-0029-1&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C1.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhou, Chen Chen and Song, Juha and Cho, Namjoon. &#34;Unravelling the Size and Shape Tuning Mechanisms of Microparticle Formation in Pollen-Hydrogel Composites&#34;.  In 2024 SES Annual Technical Meeting，Hangzhou, China,2024.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/20863&#34;&gt; [pdf].&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C2.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Nash, Richard and Li, Yaning. &#34;Mechanics of Two-Phase Auxetic Chevron Mechanical Metamaterial&#34;. APS March Meeting 2022 Abstracts,W21--012,Chicago, U.S.,2022.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2022APS..MARW21012X/abstract&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C3.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Li, Yaning. &#34;Retarding Damages/Cracks via Auxetic effects and Snap-through Instability&#34;. APS March Meeting 2021 Abstracts,X17--009,2021.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021APS..MARX17009X/abstract&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;b&gt; C4.  &lt;/b&gt;&lt;b&gt;  Xu, Yan Zhang&lt;/b&gt; and Zhang, Guanyu and Wan, Decheng and Chen, Gang. &#34;MPS Method for Study of Interactions Between Solitary Wave and Submerged Horizontal Plate&#34;. In the 29th International Ocean and Polar Engineering，Honolulu, Hawaii, USA,2019.&lt;p style=&#34;display:inline;color:#2471a3&#34;&gt;&lt;a href=&#34;https://onepetro.org/ISOPEIOPEC/proceedings-abstract/ISOPE19/All-ISOPE19/20863&#34;&gt; [pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;/font&gt; 
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://localhost:1313/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
