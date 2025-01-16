@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Yanzhang Xu&#39;s Blog</title>
-        <link>https://yanzhang-xu.github.io/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on Yanzhang Xu&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yanzhang-xu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Books</title>
-        <link>https://yanzhang-xu.github.io/categories/books/</link>
-        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://yanzhang-xu.github.io/categories/books/</guid>
-        <description>&lt;img src="https://yanzhang-xu.github.io/categories/books/cat1.jpg" alt="Featured image of post Books" /&gt;</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Life</title>
-        <link>https://yanzhang-xu.github.io/categories/test/</link>
-        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+        <link>http://localhost:1313/categories/test/</link>
+        <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://yanzhang-xu.github.io/categories/test/</guid>
-        <description>&lt;img src="https://yanzhang-xu.github.io/categories/test/baking.png" alt="Featured image of post Life" /&gt;</description>
+        <guid>http://localhost:1313/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/test/baking.png" alt="Featured image of post Life" /&gt;</description>
         </item>
         <item>
         <title>Research</title>
-        <link>https://yanzhang-xu.github.io/categories/research/</link>
+        <link>http://localhost:1313/categories/research/</link>
+        <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/research/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/research/fall.jpg" alt="Featured image of post Research" /&gt;</description>
+        </item>
+        <item>
+        <title>Books</title>
+        <link>http://localhost:1313/categories/books/</link>
         <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://yanzhang-xu.github.io/categories/research/</guid>
-        <description>&lt;img src="https://yanzhang-xu.github.io/categories/research/fall.jpg" alt="Featured image of post Research" /&gt;</description>
+        <guid>http://localhost:1313/categories/books/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/books/cat1.jpg" alt="Featured image of post Books" /&gt;</description>
         </item>
         <item>
         <title>Skills</title>
-        <link>https://yanzhang-xu.github.io/categories/skills/</link>
+        <link>http://localhost:1313/categories/skills/</link>
         <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://yanzhang-xu.github.io/categories/skills/</guid>
-        <description>&lt;img src="https://yanzhang-xu.github.io/categories/skills/cat.png" alt="Featured image of post Skills" /&gt;</description>
+        <guid>http://localhost:1313/categories/skills/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/skills/cat.png" alt="Featured image of post Skills" /&gt;</description>
         </item>
         
     </channel>
