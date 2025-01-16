@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Shortcodes on Yanzhang Xu&#39;s Blog</title>
-        <link>http://localhost:1313/tags/shortcodes/</link>
+        <link>https://yanzhang-xu.github.io/tags/shortcodes/</link>
         <description>Recent content in Shortcodes on Yanzhang Xu&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yanzhang-xu.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo&#43;Github</title>
-        <link>http://localhost:1313/p/hugo-github/</link>
+        <link>https://yanzhang-xu.github.io/p/hugo-github/</link>
         <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugo-github/</guid>
-        <description>&lt;img src="http://localhost:1313/p/hugo-github/cat.png" alt="Featured image of post Hugo&#43;Github" /&gt;&lt;p&gt;This article offers steps to build a blog.(Assume the hugo has been installed properly in your PC.)&lt;/p&gt;
+        <guid>https://yanzhang-xu.github.io/p/hugo-github/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/hugo-github/cat.png" alt="Featured image of post Hugo&#43;Github" /&gt;&lt;p&gt;This article offers steps to build a blog.(Assume the hugo has been installed properly in your PC.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/e399a96bba2d&#34; style=&#34;display:inline;color:#516b91;&#34;&gt;Hugo install&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;bp-styledisplayinlinecolor516b91a-hrefhttpsthemesgohugoiothemes-clone-the-theme-from-the-github-repositoryapb&#34;&gt;&lt;b&gt;&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/&#34;&gt; Clone the theme from the github repository&lt;/a&gt;&lt;/p&gt;&lt;/b&gt;
 &lt;/h3&gt;&lt;pre&gt;

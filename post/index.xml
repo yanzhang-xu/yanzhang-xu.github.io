@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Yanzhang Xu&#39;s Blog</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://yanzhang-xu.github.io/post/</link>
         <description>Recent content in Posts on Yanzhang Xu&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yanzhang-xu.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>招聘岗位</title>
-        <link>http://localhost:1313/p/%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D/</link>
+        <link>https://yanzhang-xu.github.io/p/%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D/</link>
         <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D/text.jpg" alt="Featured image of post 招聘岗位" /&gt;&lt;p&gt;私企：
+        <guid>https://yanzhang-xu.github.io/p/%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D/text.jpg" alt="Featured image of post 招聘岗位" /&gt;&lt;p&gt;私企：
 我的专业背景可以报考
 &lt;br&gt;
 华为&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://career.huawei.com/reccampportal/portal5/campus-recruitment-detail.html?jobId=15151&amp;dataSource=1&amp;jobType=2&amp;recruitType=CR&amp;sourceType=001&#34;&gt;材料应用工程师(上海/东莞)&lt;/a&gt;&lt;/p&gt;
@@ -25,7 +25,14 @@
 &lt;br&gt;
 &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://job.byd.com/portal/pc/#/school/schoolPhQ?1wdfb1LbMwhz4TymXhCJbg==&#34;&gt;比亚迪(深圳/上海/西安/重庆/惠州)&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;国企：&lt;/p&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://envision-career.com/campus-recruitment/envisiongroup/43123/#/&#34;&gt;远景科技(上海)&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.sicarrier.com/%e6%8b%9b%e8%b4%a4%e7%ba%b3%e5%a3%ab/%e5%ba%94%e5%b1%8a%e7%94%9f%e6%8b%9b%e8%81%98?paged=7&#34;&gt;新凯来(深圳)&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.lixiang.com/employ/campus/list.html?functionsids=70%2C71%2C72%2C73%2C74%2C75%2C76%2C77%2C78%2C79%2C80%2C81%2C82%2C83%2C84%2C85%2C86&amp;fromJob=1&#34;&gt;理想汽车(上海/北京)&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.job.mohrss.gov.cn/qyzp/index.jhtml&#34;&gt;央国企：&lt;/a&gt;&lt;/p&gt;&lt;br&gt;
 &lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/overseas.html?orgCode=0%2F45&#34;&gt;东风研发总院，武汉&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://zhaopin.sgcc.com.cn/sgcchr/static/unitList.html&#34;&gt;国家电网(湖北/安徽/江苏/浙江)&lt;/a&gt;&lt;/p&gt;&lt;br&gt;注：湖北，江苏，博士33，条件优秀的可适当放宽; 安徽：优先考虑 博士33; 浙江：卡博士33岁&lt;br&gt;&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;25国家电网网申常见问题解答.pdf&#34;&gt;
 国家电网网申指南&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;25其他工学类考纲.pdf&#34;&gt;
@@ -50,20 +57,32 @@
 &lt;br&gt;
 &lt;b&gt;26届2批&lt;/b&gt;，则在2026年3月网申，4月笔试，剩下时间节点基本一致.
 &lt;img src = &#34;国网.jpg&#34;&gt;
-中船：
-&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.cssc.net.cn/n9/n63/index.html&#34;&gt;中船&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/overseas.html?orgCode=0%2F45&#34;&gt;中船702研究所, 上海&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://dfmc.hotjob.cn/SU60cc3c9cbef57c51986a8ca0/pb/overseas.html?orgCode=0%2F45&#34;&gt;中船701研究所, 武汉&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.tobacco.gov.cn/so/s?tab=all&amp;siteCode=bm64000012&amp;qt=%E6%8B%9B%E8%81%98&#34;&gt;中国烟草&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.cssc.net.cn/n9/n63/index.html&#34;&gt;中船:&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://www.cssrc.com.cn/info/65.html&#34;&gt;中船702研究所, 上海/无锡&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/GtFXu_CPmWzGmKH1fsrLzg&#34;&gt;中船701研究所, 武汉&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/pMRJbNYqMU4T-9qYk-sBNw&#34;&gt;中船719研究所, 武汉&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34; https://wecruit.hotjob.cn/SU64d47c466202cc36e27a52d4/pb/school.html?postTypeCode=0%2F1227%2F103301&#34;&gt;中车&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://www.cnpc.com.cn/cnpc/jrwm/jrwm_index.shtml&#34;&gt;中石油&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;http://job.mohrss.gov.cn/qyzp/159604.jhtml&#34;&gt;中海油&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://zhaopin.comac.cc/zp/ct/out/position&#34;&gt;商飞&lt;/a&gt;&lt;/p&gt;
 
 </description>
         </item>
         <item>
         <title>Hugo&#43;Github</title>
-        <link>http://localhost:1313/p/hugo-github/</link>
+        <link>https://yanzhang-xu.github.io/p/hugo-github/</link>
         <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/hugo-github/</guid>
-        <description>&lt;img src="http://localhost:1313/p/hugo-github/cat.png" alt="Featured image of post Hugo&#43;Github" /&gt;&lt;p&gt;This article offers steps to build a blog.(Assume the hugo has been installed properly in your PC.)&lt;/p&gt;
+        <guid>https://yanzhang-xu.github.io/p/hugo-github/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/hugo-github/cat.png" alt="Featured image of post Hugo&#43;Github" /&gt;&lt;p&gt;This article offers steps to build a blog.(Assume the hugo has been installed properly in your PC.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.jianshu.com/p/e399a96bba2d&#34; style=&#34;display:inline;color:#516b91;&#34;&gt;Hugo install&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;bp-styledisplayinlinecolor516b91a-hrefhttpsthemesgohugoiothemes-clone-the-theme-from-the-github-repositoryapb&#34;&gt;&lt;b&gt;&lt;p style=&#34;display:inline;color:#516b91&#34;&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/&#34;&gt; Clone the theme from the github repository&lt;/a&gt;&lt;/p&gt;&lt;/b&gt;
 &lt;/h3&gt;&lt;pre&gt;
@@ -104,11 +123,11 @@ git push -f origin main ## will replace the original version
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/p/markdown-syntax-guide/</link>
+        <link>https://yanzhang-xu.github.io/p/markdown-syntax-guide/</link>
         <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="http://localhost:1313/p/markdown-syntax-guide/abstract.png" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>https://yanzhang-xu.github.io/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/markdown-syntax-guide/abstract.png" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1
@@ -334,10 +353,10 @@ git push -f origin main ## will replace the original version
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>http://localhost:1313/p/math-typesetting/</link>
+        <link>https://yanzhang-xu.github.io/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/math-typesetting/</guid>
+        <guid>https://yanzhang-xu.github.io/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -374,11 +393,11 @@ $$</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>http://localhost:1313/p/emoji-support/</link>
+        <link>https://yanzhang-xu.github.io/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/emoji-support/</guid>
-        <description>&lt;img src="http://localhost:1313/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://yanzhang-xu.github.io/p/emoji-support/</guid>
+        <description>&lt;img src="https://yanzhang-xu.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
